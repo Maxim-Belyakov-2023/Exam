@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 class A {
+	// По-умолчанию, если не указать явно модификатор доступа, доступ считается как private.
 	int cnt;
 	void put(int v) {
 		cout << cnt++;
