@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_47", "Зада
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_17Н", "Задача_50Н\Задача_50Н.vcxproj", "{EBF46B18-85B1-4439-B941-33DA6EB40EF5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_18Н", "Задача_18Н\Задача_18Н.vcxproj", "{422CEE1A-D594-453A-AEBF-A0E71DCE6537}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_18", "Задача_18\Задача_18.vcxproj", "{422CEE1A-D594-453A-AEBF-A0E71DCE6537}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_19Н", "Задача_19Н\Задача_19Н.vcxproj", "{D43AECB1-82CB-4856-9026-AE590EAEFC4E}"
 EndProject
